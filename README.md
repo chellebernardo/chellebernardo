@@ -29,6 +29,6 @@
   <a href="https://www.linkedin.com/in/michellebernardo/" target="_blank"><img height="40px" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/chellebernardo/chellebernardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>

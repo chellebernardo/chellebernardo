@@ -1,11 +1,27 @@
-## Hi, I'm Chelle
+<h1 align="center">
+  Hi, I'm Michelle but you can call me Chelle!
+</h1>
+
+<h3 align="center">
+  <i>A little about myself...</i>
+</h3>
+
+<p align="center">Born and raised in São Paulo, I'm a daughter, sister and granddaughter. I'm 24 years old and I live with my family who I love and my - not so little, dog Sasuke in a little house by the extreme east of Capital. I love technology before I even got to know what the word love meant. So, you can picture it's been a while now. 
+I'm a very curious and excited woman, I like to talk about anything, really ANYTHING. I live to research and learn things all by myself and I swear, I have fun doing it.
+I do a lot stuff and I'm involved in a lot of projects and I have tons of hobbies (one of them is write, by the way). So to spare you from reading the next bible, I'm gonna skip this part.
+So... Greetings, non-identified-human (or machine?!)! Welcome to my GitHub Page. 
+Here you're gonna find some of my recents projects and some studying stuff too. Be free to check it all out.</p>
 
 <div align="center">
   <a href="https://github.com/chellebernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chellebernardo&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chellebernardo&layout=compact&langs_count=7&theme=bear"/>
 </div>
-<div align="center"><br>
+  <br>
+  <h3 align="center">
+    Some of the techs I'm currently learning...
+  </h3>  
+<div align="center">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="SPRING BOOT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -19,6 +35,9 @@
   <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Git-dc5c2c?style=for-the-badge&logo=git&logoColor=white">
 </div>
   <br>
+<h2 align="center">
+  Contact me!
+</h2>
 <div align="center"> 
   <div align="center"> 
   <img alt="CHELLINHA" height="150" width="150" src="https://i.imgur.com/seoJOR7.gif">

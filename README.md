@@ -8,9 +8,13 @@
 
 <p align="center">Born and raised in São Paulo, I'm a daughter, sister and granddaughter. I'm 24 years old and I live with my family who I love and my - not so little, dog Sasuke in a little house by the extreme east of Capital. I love technology before I even got to know what the word love meant. So, you can picture it's been a while now. 
 I'm a very curious and excited woman, I like to talk about anything, really ANYTHING. I live to research and learn things all by myself and I swear, I have fun doing it.
-I do a lot stuff and I'm involved in a lot of projects and I have tons of hobbies (one of them is write, by the way). So to spare you from reading the next bible, I'm gonna skip this part.
-So... Greetings, non-identified-human (or machine?!)! Welcome to my GitHub Page. 
-Here you're gonna find some of my recents projects and some studying stuff too. Be free to check it all out.</p>
+I do a lot stuff and I'm involved in a lot of projects and I have tons of hobbies (one of them is write, by the way). So to spare you from reading the next bible, I'm gonna skip this part.</p>
+<p align="center">
+  So... Greetings, non-identified-human (or machine?!)! Welcome to my GitHub Page.
+</p>
+<p align="center">
+  Here you're gonna find some of my recents projects and some studying stuff too. Be free to check it all out.
+</p>
 
 <div align="center">
   <a href="https://github.com/chellebernardo">

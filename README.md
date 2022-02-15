@@ -6,12 +6,7 @@
   <i>A little about myself...</i>
 </h3>
 
-<p align="center">Born and raised in São Paulo, I'm a daughter, sister and granddaughter. I'm 24 years old and I live with my family who I love and my - not so little, dog Sasuke in a little house by the extreme east of Capital. I love technology before I even got to know what the word love meant. So, you can picture it's been a while now. 
-I'm a very curious and excited woman, I like to talk about anything, really ANYTHING. I live to research and learn things all by myself and I swear, I have fun doing it.
-I do a lot stuff and I'm involved in a lot of projects and I have tons of hobbies (one of them is writing, by the way). So to spare you from reading the next bible, I'm gonna skip this part.</p>
-<p align="center">
-  So... Greetings, non-identified-human (or machine?!)! Welcome to my GitHub Page.
-</p>
+<p align="center">I love technology, music and all kinds of art. I'm a huge design fan and also a crazy cat person. Recently I've been accepted in the Development Program from Boticário's Grupo and I'm currently studying to become the bestest Dev Fullstack you've got to know.</p>
 <p align="center">
   Here you're gonna find some of my recents projects and some studying stuff too. Be free to check it all out.
 </p>
@@ -23,7 +18,7 @@ I do a lot stuff and I'm involved in a lot of projects and I have tons of hobbie
 </div>
   <br>
   <h3 align="center">
-    Some of the techs I'm currently learning...
+    Techs I'm currently learning...
   </h3>  
 <div align="center">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -36,7 +31,7 @@ I do a lot stuff and I'm involved in a lot of projects and I have tons of hobbie
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="ANGULAR"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Git-dc5c2c?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GIHUB" src="https://img.shields.io/badge/Git-dc5c2c?style=for-the-badge&logo=git&logoColor=white">
 </div>
   <br>
 <h2 align="center">
